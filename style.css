@@ -1,0 +1,22 @@
+ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+}
+.li{
+    padding-left: 83%;
+    display: flex;
+}
+li{
+    padding-left: 23%;
+}
+a{
+    text-decoration: none;
+
+}
+
+button{
+    display: none;
+}
+
