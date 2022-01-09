@@ -1,7 +1,7 @@
-var x = document.getElementById("i")
-var y = document.getElementById("my")
-function aksh() {
 
+function aksh() {
+     x = document.getElementById("i")
+     y = document.getElementById("my")
     if (x.style.display != "none") {
         x.style.display = "none";
     }
