@@ -20,3 +20,15 @@ button{
     display: none;
 }
 
+
+@media screen and (min-width: 768px) {
+   .li{
+    display: grid;
+    /* padding-right: 51%; */
+    justify-content: end;
+    font-size: 258%;
+   }
+   ul{
+    display: grid;
+   }
+  }
